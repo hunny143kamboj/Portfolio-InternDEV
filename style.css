@@ -1,0 +1,82 @@
+h1 {
+    color:whitesmoke;
+    font-family: Verdana;
+    
+    font-size: 50px;
+   
+
+}
+h2 {
+    color:rgb(43, 205, 226);
+    
+    font-size: 26px;
+    
+
+}
+p {
+    color:whitesmoke;
+   
+    font-size: 14px;
+    font-style: verdana;
+    text-decoration: blueviolet;
+}
+img {
+    width: 450px;
+
+
+}
+
+.a{
+    
+    font-size: 24px;
+    
+}
+.image{
+    
+    position:absolute;
+    Top:80px;
+    bottom:80;
+    right:100px;
+    
+}
+
+.b{
+    font-size:26px;
+    color:white;
+    
+}
+.navbar a{
+    font-size: 20px;
+    display:bold;
+    letter-spacing:1px;
+    color:whitesmoke;
+    font-weight:bold;
+    text-align: right;
+    
+    
+}
+nav a:hover{
+    color:red;
+}
+.navbar1 {
+text-align:left;
+text-decoration: none;
+font-size: 14px;
+padding:14px;
+margin-left: 35px;
+
+}
+*{
+    margin: 1px;;
+    padding:17px;
+
+}
+span{
+    color:red;
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/abstract-blue-light-pipe-speed-zoom-black-background-technology_1142-9722.jpg?w=1480&t=st=1691321601~exp=1691322201~hmac=576c911e88a23995fd62f2e7b3648d141e7c61469c4bc48f4629d5cfef40f06c");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
